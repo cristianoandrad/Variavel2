@@ -16,5 +16,12 @@ namespace Variavel2
         {
             InitializeComponent();
         }
+
+        private void btnClique_Click(object sender, EventArgs e)
+        {
+            string nome;
+            nome = "Seja bem vindo";
+            txtNome.Text = nome;
+        }
     }
 }

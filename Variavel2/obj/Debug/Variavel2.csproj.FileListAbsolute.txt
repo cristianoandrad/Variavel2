@@ -1,0 +1,10 @@
+C:\Users\Suporte\source\repos\Variavel2\Variavel2\bin\Debug\Variavel2.exe.config
+C:\Users\Suporte\source\repos\Variavel2\Variavel2\bin\Debug\Variavel2.exe
+C:\Users\Suporte\source\repos\Variavel2\Variavel2\bin\Debug\Variavel2.pdb
+C:\Users\Suporte\source\repos\Variavel2\Variavel2\obj\Debug\Variavel2.csprojAssemblyReference.cache
+C:\Users\Suporte\source\repos\Variavel2\Variavel2\obj\Debug\Variavel2.Form1.resources
+C:\Users\Suporte\source\repos\Variavel2\Variavel2\obj\Debug\Variavel2.Properties.Resources.resources
+C:\Users\Suporte\source\repos\Variavel2\Variavel2\obj\Debug\Variavel2.csproj.GenerateResource.cache
+C:\Users\Suporte\source\repos\Variavel2\Variavel2\obj\Debug\Variavel2.csproj.CoreCompileInputs.cache
+C:\Users\Suporte\source\repos\Variavel2\Variavel2\obj\Debug\Variavel2.exe
+C:\Users\Suporte\source\repos\Variavel2\Variavel2\obj\Debug\Variavel2.pdb
